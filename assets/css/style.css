@@ -189,7 +189,7 @@ body {
 
 .btn-primary.blue:is(:hover, :focus) { background-color: var(--orange-soda); }
 .img-cover1{
-  height: 400px;
+  height: 100%;
 }
 
 .img-cover {
